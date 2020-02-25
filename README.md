@@ -1,5 +1,5 @@
-# FileChannel - ByteBuffer - Memory-mapped IO - Locks
+# FileChannel - ByteBuffer - Memory-mapped I/O - Locks
 
-Demos for writing and reading files with FileChannel and ByteArray.
+Demos for writing and reading files with `FileChannel` and `ByteArray`.
 
-Tests for write speed with RandomAccessFile, FileChannel, heap buffer, native buffer, memory-mapped buffer, and FileOutputStream.
+Tests for write speed with `FileChannel`, heap buffer, native buffer, `MappedByteBuffer`, and `FileOutputStream`.
