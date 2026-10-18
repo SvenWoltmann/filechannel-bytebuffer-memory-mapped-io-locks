@@ -1,0 +1,15 @@
+# filechannel-random-128mb-reverse-warm
+# date:    2026-10-18T09:01:35Z
+# machine: apple-m5-pro-arm64
+# java:    OpenJDK Runtime Environment (build 27+35-2325)
+# filechannel-repo commit: a3fcb6b
+# program: FileChannelWriteLadder.java RANDOM, buffers 1024 KB down to 1 KB, 128 MB, 8 repetitions, 8 warmups, 90 s pause before each buffer size
+# finished: 2026-10-18T09:19:21Z
+# result:  The warmup does not settle MappedByteBufferTest at small buffers: per
+#          file 29 to 31 ms at 2 KB, but 29 ms once and then 60 to 66 ms at 4 KB,
+#          and slow at 8 KB, where the cold run had been fast. MemorySegmentTest
+#          stays at 26 to 31 ms throughout. At 16 KB and up both runs agree to
+#          within 15 %. The chart keeps the cold run; the article says that
+#          MappedByteBuffer swings between about 2 and 4 GB/s there.
+# load:    the idle guard flagged com.apple.Virtualization at 54 % of a core at
+#          10:03:13, during the 1 MB buffers.

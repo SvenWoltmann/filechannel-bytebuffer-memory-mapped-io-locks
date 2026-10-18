@@ -1,0 +1,11 @@
+# filechannel-random
+# date:    2026-10-18T05:57:26Z
+# machine: apple-m5-pro-arm64
+# java:    OpenJDK Runtime Environment (build 27+35-2325)
+# filechannel-repo commit: a3fcb6b
+# program: FileChannelWriteLadder.java RANDOM 1-1024 KB, 1-128 MB, 32 repetitions, at most 1024 MB per test and file size
+# workdir: /var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T//filechannel-series (/dev/disk3s5)
+# power:   Now drawing from 'AC Power'
+# disk MB written before: 3526363
+# disk MB written after:  3882779
+# finished: 2026-10-18T05:59:53Z

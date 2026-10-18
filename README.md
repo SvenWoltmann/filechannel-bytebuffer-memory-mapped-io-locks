@@ -2,7 +2,7 @@
 
 Demos for writing and reading files with `FileChannel` and `ByteArray`.
 
-Tests for write speed with `FileChannel`, heap buffer, native buffer, `MappedByteBuffer`, and `FileOutputStream`.
+Tests for write speed with `FileChannel`, heap buffer, native buffer, `MappedByteBuffer`, and `FileOutputStream` – and, in `FileChannelWriteLadder`, with a `MemorySegment` mapped via `FileChannel.map()` and an `Arena`. The measurements of the article are in [`results/2026-10-18`](results/2026-10-18).
 
 The code belongs to this article:
 * English: [Java files, part 6: FileChannel, ByteBuffer, Memory-mapped I/O, Locks](https://www.happycoders.eu/java/filechannel-bytebuffer-memory-mapped-file-locks/)

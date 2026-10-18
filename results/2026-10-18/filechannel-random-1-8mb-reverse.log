@@ -1,0 +1,88 @@
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.uurFh1vm9I/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+RANDOM buffer 1024 KB, file 1 MB: 32 repetitions, 0.1 s
+RANDOM buffer 1024 KB, file 2 MB: 32 repetitions, 0.1 s
+RANDOM buffer 1024 KB, file 4 MB: 32 repetitions, 0.2 s
+RANDOM buffer 1024 KB, file 8 MB: 32 repetitions, 0.3 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.uurFh1vm9I/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+RANDOM buffer 512 KB, file 1 MB: 32 repetitions, 0.1 s
+RANDOM buffer 512 KB, file 2 MB: 32 repetitions, 0.1 s
+RANDOM buffer 512 KB, file 4 MB: 32 repetitions, 0.2 s
+RANDOM buffer 512 KB, file 8 MB: 32 repetitions, 0.3 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.uurFh1vm9I/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+RANDOM buffer 256 KB, file 1 MB: 32 repetitions, 0.1 s
+RANDOM buffer 256 KB, file 2 MB: 32 repetitions, 0.1 s
+RANDOM buffer 256 KB, file 4 MB: 32 repetitions, 0.2 s
+RANDOM buffer 256 KB, file 8 MB: 32 repetitions, 0.3 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.uurFh1vm9I/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+RANDOM buffer 128 KB, file 1 MB: 32 repetitions, 0.1 s
+RANDOM buffer 128 KB, file 2 MB: 32 repetitions, 0.1 s
+RANDOM buffer 128 KB, file 4 MB: 32 repetitions, 0.2 s
+RANDOM buffer 128 KB, file 8 MB: 32 repetitions, 0.3 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.uurFh1vm9I/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+RANDOM buffer 64 KB, file 1 MB: 32 repetitions, 0.1 s
+RANDOM buffer 64 KB, file 2 MB: 32 repetitions, 0.1 s
+RANDOM buffer 64 KB, file 4 MB: 32 repetitions, 0.3 s
+RANDOM buffer 64 KB, file 8 MB: 32 repetitions, 0.5 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.uurFh1vm9I/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+RANDOM buffer 32 KB, file 1 MB: 32 repetitions, 0.1 s
+RANDOM buffer 32 KB, file 2 MB: 32 repetitions, 0.1 s
+RANDOM buffer 32 KB, file 4 MB: 32 repetitions, 0.2 s
+RANDOM buffer 32 KB, file 8 MB: 32 repetitions, 0.5 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.uurFh1vm9I/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+RANDOM buffer 16 KB, file 1 MB: 32 repetitions, 0.1 s
+RANDOM buffer 16 KB, file 2 MB: 32 repetitions, 0.2 s
+RANDOM buffer 16 KB, file 4 MB: 32 repetitions, 0.3 s
+RANDOM buffer 16 KB, file 8 MB: 32 repetitions, 0.6 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.uurFh1vm9I/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+RANDOM buffer 8 KB, file 1 MB: 32 repetitions, 0.2 s
+RANDOM buffer 8 KB, file 2 MB: 32 repetitions, 0.2 s
+RANDOM buffer 8 KB, file 4 MB: 32 repetitions, 0.4 s
+RANDOM buffer 8 KB, file 8 MB: 32 repetitions, 0.7 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.uurFh1vm9I/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+RANDOM buffer 4 KB, file 1 MB: 32 repetitions, 0.2 s
+RANDOM buffer 4 KB, file 2 MB: 32 repetitions, 0.3 s
+RANDOM buffer 4 KB, file 4 MB: 32 repetitions, 0.5 s
+RANDOM buffer 4 KB, file 8 MB: 32 repetitions, 1.1 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.uurFh1vm9I/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+RANDOM buffer 2 KB, file 1 MB: 32 repetitions, 0.3 s
+RANDOM buffer 2 KB, file 2 MB: 32 repetitions, 0.4 s
+RANDOM buffer 2 KB, file 4 MB: 32 repetitions, 0.8 s
+RANDOM buffer 2 KB, file 8 MB: 32 repetitions, 1.7 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.uurFh1vm9I/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+RANDOM buffer 1 KB, file 1 MB: 32 repetitions, 0.4 s
+RANDOM buffer 1 KB, file 2 MB: 32 repetitions, 0.6 s
+RANDOM buffer 1 KB, file 4 MB: 32 repetitions, 1.3 s
+RANDOM buffer 1 KB, file 8 MB: 32 repetitions, 2.6 s

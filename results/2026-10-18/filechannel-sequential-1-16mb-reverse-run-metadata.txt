@@ -1,0 +1,7 @@
+# filechannel-sequential-1-16mb-reverse
+# date:    2026-10-18T07:48:21Z
+# machine: apple-m5-pro-arm64
+# java:    OpenJDK Runtime Environment (build 27+35-2325)
+# filechannel-repo commit: a3fcb6b
+# program: FileChannelWriteLadder.java SEQUENTIAL, buffers 1024 KB down to 1 KB, 1-16 MB, 32 repetitions, 90 s pause before each buffer size
+# finished: 2026-10-18T08:05:35Z

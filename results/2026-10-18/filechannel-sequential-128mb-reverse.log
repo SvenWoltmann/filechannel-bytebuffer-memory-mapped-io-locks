@@ -1,0 +1,55 @@
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.TSGIe8GWJW/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+SEQUENTIAL buffer 1024 KB, file 128 MB: 8 repetitions, 1.3 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.TSGIe8GWJW/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+SEQUENTIAL buffer 512 KB, file 128 MB: 8 repetitions, 1.2 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.TSGIe8GWJW/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+SEQUENTIAL buffer 256 KB, file 128 MB: 8 repetitions, 1.2 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.TSGIe8GWJW/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+SEQUENTIAL buffer 128 KB, file 128 MB: 8 repetitions, 1.3 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.TSGIe8GWJW/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+SEQUENTIAL buffer 64 KB, file 128 MB: 8 repetitions, 1.4 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.TSGIe8GWJW/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+SEQUENTIAL buffer 32 KB, file 128 MB: 8 repetitions, 1.8 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.TSGIe8GWJW/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+SEQUENTIAL buffer 16 KB, file 128 MB: 8 repetitions, 2.6 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.TSGIe8GWJW/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+SEQUENTIAL buffer 8 KB, file 128 MB: 8 repetitions, 3.5 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.TSGIe8GWJW/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+SEQUENTIAL buffer 4 KB, file 128 MB: 8 repetitions, 5.6 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.TSGIe8GWJW/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+SEQUENTIAL buffer 2 KB, file 128 MB: 8 repetitions, 7.7 s
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::invokeCleaner has been called by eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper (file:/private/var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T/tmp.TSGIe8GWJW/)
+WARNING: Please consider reporting this to the maintainers of class eu.happycoders.filechannel.performance.util.MemoryMappedBufferHelper
+WARNING: sun.misc.Unsafe::invokeCleaner will be removed in a future release
+SEQUENTIAL buffer 1 KB, file 128 MB: 8 repetitions, 11.8 s

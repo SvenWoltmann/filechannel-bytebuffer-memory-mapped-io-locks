@@ -1,0 +1,17 @@
+# filechannel-sequential
+# date:    2026-10-18T05:52:06Z
+# machine: apple-m5-pro-arm64
+# java:    OpenJDK Runtime Environment (build 27+35-2325)
+# filechannel-repo commit: a3fcb6b
+# program: FileChannelWriteLadder.java SEQUENTIAL 1-1024 KB, 1-1024 MB, 32 repetitions, at most 1024 MB per test and file size
+# workdir: /var/folders/wt/np9sw9515z117kn393z4t4k00000gn/T//filechannel-series (/dev/disk3s5)
+# power:   Now drawing from 'AC Power'
+# disk MB written before: 2818831
+# disk MB written after:  3526363
+# finished: 2026-10-18T05:57:26Z
+# note:    The SSD write counter rose by 707 GB, the sum of all file sizes in the
+#          TSV. From the 256 KB buffers on - the last third of the run, after
+#          about 450 GB - single times at 128 MB and 1 GB fall into two groups,
+#          e.g. 8 to 12 ms and 28 to 30 ms for FileChannel with a direct buffer
+#          at 128 MB and 256 KB: write-back stalls, not the buffer size. See
+#          filechannel-128mb-reverse.tsv for the cross-check.
